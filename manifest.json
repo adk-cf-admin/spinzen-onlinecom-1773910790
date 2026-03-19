@@ -1,0 +1,19 @@
+{
+  "name": "Spinzen",
+  "short_name": "Spinzen",
+  "theme_color": "",
+  "background_color": "#111C1B",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773908610-favicon-60.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
